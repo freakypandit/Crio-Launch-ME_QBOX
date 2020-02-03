@@ -7,5 +7,9 @@
     #    This command should work irrespective of the current working directory.
     # 2) Execute the script before submission and confirm the output
 
+#list_files=$( ls -l -tr )
+#echo $list_files
 
-
+path=~/workspace/QBox/logs
+#path=~/workspace/d-pandey11585-ME_QBOX/linux_commands
+ls $path -l -tr
