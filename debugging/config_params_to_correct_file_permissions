@@ -1,0 +1,3 @@
+local_umask=022
+
+chroot_local_user=YES
