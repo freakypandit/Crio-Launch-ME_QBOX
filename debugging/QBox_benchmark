@@ -9,7 +9,7 @@ Any increase in memory taken by QBox Server after each upload: 15 MB
 Any increase in memory taken by QBox Server after each download: 15 MB
 Average CPU taken for Upload of 1GB file: 0.0%
 Average CPU taken for Download of 1GB file: 0.0%
-File permissions for uploaded file: wrxwrxwrx
+File permissions for uploaded file: -rw-r--r--
 File checksum same at source and destination for Upload: yes
 File checksum same at source and destination for Download: yes
 
