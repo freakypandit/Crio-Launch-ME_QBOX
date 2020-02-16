@@ -1,0 +1,7 @@
+Network Layer
+Yes
+Yes
+Ping statistics for 15.206.83.225:
+    Packets: Sent = 263, Received = 263, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 73ms, Maximum = 516ms, Average = 88ms
